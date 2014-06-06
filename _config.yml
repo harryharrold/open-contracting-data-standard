@@ -4,4 +4,4 @@ markdown: redcarpet
 redcarpet:
     extensions: [with_toc_data]
 pygments: true
-baseurl: /
+baseurl: /open-contracting-data-standard/
