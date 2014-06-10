@@ -2,7 +2,8 @@
 layout: single
 title: Blog posts
 ---
-Subscribe to [feed](/feed.xml). 
+Subscribe to [feed](/feed.xml)
+
 <ul>
   {% for post in site.posts %}
     <li>
