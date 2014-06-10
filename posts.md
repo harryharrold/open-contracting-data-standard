@@ -2,7 +2,7 @@
 layout: single
 title: Blog posts
 ---
-
+Subscribe to [feed](/feed.xml). 
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,6 +12,3 @@ title: Blog posts
     </li>
   {% endfor %}
 </ul>
-
-
-You can subscribe to a [feed of the latest posts here](/feed.xml). 
