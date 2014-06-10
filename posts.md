@@ -9,7 +9,7 @@ You can keep in touch day-to-day with our work in progress through [the mailing 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.date  | date_to_string }}: {{ post.title }}</a> {% if post.author %} ({{post.author}}) {% endif %}
+      <a href="{{site.baseurl}} {{ post.url }}">{{ post.date  | date_to_string }}: {{ post.title }}</a> {% if post.author %} ({{post.author}}) {% endif %}
     </li>
   {% endfor %}
 </ul>
