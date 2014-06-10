@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Blog posts
 ---
 ## Blog posts
