@@ -9,7 +9,7 @@ Subscribe to [feed](/feed.xml)
     <li>
       <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} - {{ post.date  | date_to_string }}</a> {% if post.author %} ({{post.author}}) {% endif %}
       {{ post.excerpt }}
-      <a href="{{ post.url }}">More about {{ post.title }}</a>
+      <a href="{{site.baseurl}}{{ post.url }}}">More about {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
