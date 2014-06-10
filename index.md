@@ -12,4 +12,29 @@ Current work - Call to action to read "Current work", and link to the most recen
 
 Join us - Call to action to read "Join us", and link to "Get involved" page
 
+Leaving this code here for now...
+
+        <div>
+            {% assign post = site.posts.first %}
+            <a href="{{site.baseurl}}{{ post.url }}">
+                <div>
+                    <div>
+                        {% if post.image %}
+                        <img src="{{ post.image }}"/>
+                        {% elsif post.snippet %}
+                        <p>{{ post.snippet }}</p>
+                        {% elsif post.content %}
+                        <p>{{ post.content | strip_html | truncate: 130}}...</p>
+                        {% else %}
+                        <p>Read latest.</p>
+                        {% endif %}
+                    </div>
+                    <div>
+                        <button role="button">Read latest</button>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+
 
