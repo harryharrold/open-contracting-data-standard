@@ -4,7 +4,7 @@ title: About the project
 date: 06/06/2014
 ---
 ## Why open contracting?
-50 words on what the problem is, and how it affects real prople.
+50 words on what the problem is, and how it affects real people.
 
 ## Why a data standard?
 25 words on how a data standard helps solve this problem.
