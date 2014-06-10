@@ -4,8 +4,6 @@ title:  Montreal Python Conference (PyCon) Sprint - What We Discussed
 date:   2014-05-25
 author: Ana Brandusescu
 image: /assets/images/opendatacomparison.jpg
-excerpt: We (Sarah, Ana, Tim and Michael) met at PyCon in Montreal (April 14-17) to lead the Open Contracting sprint in the Open Spaces rooms. There were many interesting discussions held over the four days of sprints from topics on data ontologies to public procurement phases
-
 ---
 
 We (Sarah, Ana, Tim and Michael) met at PyCon in Montreal (April 14-17) to lead the Open Contracting sprint in the Open Spaces rooms. There were many interesting discussions held over the four days of sprints from topics on data ontologies to public procurement phases.
