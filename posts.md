@@ -7,7 +7,7 @@ title: Blog posts
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }} - {{ post.date  | date_to_string }}</a> {% if post.author %} ({{post.author}}) {% endif %}
-      <p>Introductoty paragraph</p>
+      {{ post.excerpt }}
       <a href="{{ post.url }}">More about {{ post.title }}</a>
     </li>
   {% endfor %}
