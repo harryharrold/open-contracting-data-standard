@@ -2,13 +2,12 @@
 layout: single
 title: Get involved
 ---
-<h1>{{page.title}}</h1>
+
 <div class="left-right">
 					<div class="left">
 						<p>Aenean lectus elit, dictum sed viverra sit amet, pellentesque vel elit. Cras dictum dui ac fringilla tempor. Pellentesque vitae pellentesque purus, vel eleifend dui. Duis hendrerit diam quis sagittis mattis. Phasellus mauris ipsum, laoreet quis consectetur sed, feugiat et metus. Donec tristique sollicitudin nulla eu convallis. Suspendisse varius neque in erat venenatis, nec vestibulum felis ullamcorper.</p>
 						<h3>Developers</h3>
-						<p>Suspendisse blandit tellus orci, ac elementum nibh feugiat quis. Phasellus vitae vestibulum massa, et dapibus nunc. Nullam ultricies porta lectus in vulputate. Ut laoreet ipsum leo.</p>
-					</div>
+						<p>Suspendisse blandit tellus orci, ac elementum nibh feugiat quis. Phasellus vitae vestibulum massa, et dapibus nunc. Nullam ultricies porta lectus in vulputate. Ut laoreet ipsum leo.</p></div>
 					<div class="right">
 						<h2 class="visually-hidden">How to get invloved</h2>
 						<ul class="get-involved">
