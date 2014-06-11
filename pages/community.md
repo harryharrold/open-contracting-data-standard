@@ -1,7 +1,8 @@
 ---
 layout: single
-title: Community
+title: Get involved
 ---
+<h1>{{page.title}}</h1>
 <div class="left-right">
 					<div class="left">
 						<p>Aenean lectus elit, dictum sed viverra sit amet, pellentesque vel elit. Cras dictum dui ac fringilla tempor. Pellentesque vitae pellentesque purus, vel eleifend dui. Duis hendrerit diam quis sagittis mattis. Phasellus mauris ipsum, laoreet quis consectetur sed, feugiat et metus. Donec tristique sollicitudin nulla eu convallis. Suspendisse varius neque in erat venenatis, nec vestibulum felis ullamcorper.</p>
