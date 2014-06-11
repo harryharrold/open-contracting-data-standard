@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to the Open Contracting Data Standard Project
+title: The Open Contracting Data Standard Project
 ---
 Strapline - up to ten words
 
