@@ -26,9 +26,9 @@ _Documentation, repository_
 
 ### Open Data Categorisation Tool - April 2014
  
-One sentence about this piece of work
+A set of tools to auto categorize Open Contracting data released by publishers into generic contracting categories.
  
-_Documentation, repository_
+_[Repo](https://github.com/open-contracting/ocdata-categorize), [Documentation](http://open-contracting.github.io/pages/docs/ocdata-categorize.html), _
 
 ### First OCDS sprint - March 2014
 
