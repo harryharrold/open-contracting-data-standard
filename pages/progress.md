@@ -2,11 +2,11 @@
 layout: single
 title: Progress towards the standard
 ---
-## Standard Version 1.0 - October - December 2014
+## Standard Version 1.0 - December 2014
 
 One sentence about this piece of work
 
-##  Sector Specific Extensions - June-September 2014
+##  Sector Specific Extensions - September 2014
 
 One sentence about this piece of work
 
