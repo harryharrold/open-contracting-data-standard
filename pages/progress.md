@@ -40,7 +40,7 @@ _[Categorisation tool documentation](http://open-contracting.github.io/pages/doc
 
 In March 2014, we spent 5 days doing an initial exploration for an Open Contracting Data Standard.
  
-_[Blog post](http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/), [Initial sprint repository](https://github.com/birdsarah/oc-datamerge-spike/), [initial sprint notes](http://open-contracting.github.io/pages/notes/firstsprint.html)_
+_[Blog post](http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/), [Initial sprint repository](https://github.com/birdsarah/oc-datamerge-spike/), [initial sprint notes](http://open-contracting.github.io/pages/notes/firstsprint.html),  [write-up](http://birdsarah.github.io/oc-datamerge-spike/), [presentation](https://github.com/birdsarah/oc-datamerge-spike/blob/master/Presentation-20130328.pptx?raw=true)_
 
 ### Open Contracting Technical Scoping - March 2014
 
