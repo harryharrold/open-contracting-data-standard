@@ -32,13 +32,15 @@ _Documentation, repository_
 
 ### First OCDS sprint - March 2014
 
-In March 2013, we spent 5 days doing an initial exploration for an Open Contracting Data Standard.
+In March 2014, we spent 5 days doing an initial exploration for an Open Contracting Data Standard.
  
 _[Blog post](http://www.timdavies.org.uk/2013/04/04/developing-data-standards-for-open-contracting/), [Repo](https://github.com/birdsarah/oc-datamerge-spike/), [Initial sprint notes](http://open-contracting.github.io/pages/notes/firstsprint.html)_
 
 ### Open Contracting Technical Scoping - March 2014
 
-_Documentation_
+In March 2014, we worked with the UK's [Open Data Institute](http://theodi.org/) on a technical approach to the OCDS work.
+
+_[Report](https://github.com/open-contracting/technical-approach)_
 
 ### Open Data Comparision Tool - February 2014
  
@@ -48,7 +50,7 @@ _[The tool](http://ocds.aptivate.org/opendatacomparison), Documentation, reposit
 
 ### Initial OCDS workshop in Montreal - 31 January 2014
  
-On Jan 31, 2014 we held a Stakeholder Workshop in Montreal.
+On January 31, 2014 we held a Stakeholder Workshop in Montreal.
  
 _[Workshop notes](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/), [Personas](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/personas.html)_
 
