@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Resources
-date: 10/06/2014
 ---
 
 ## Tools
