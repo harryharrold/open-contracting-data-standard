@@ -2,15 +2,6 @@
 layout: home
 title: The Open Contracting Data Standard
 ---
-Strapline - up to ten words
 
-Elevator pitch - up to 50 words
-
-Call to action: to "Project" page
-
-Current work - Call to action to read "Current work", and link to the most recent item on the "Progress" page - see below.
-
-Join us - Call to action to read "Join us", and link to "Get involved" page - see below.
-
-Latest blog - see below
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In placerat malesuada nulla, vel facilisis mauris rhoncus in. Nam scelerisque ut metus id suscipit. Vestibulum ipsum sem.
 
