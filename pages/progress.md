@@ -6,13 +6,13 @@ title: Progress towards the standard
 
 One sentence about this piece of work
 
-# # #
+* * *
 
 ##  Sector Specific Extensions - September 2014
 
 One sentence about this piece of work
 
-# # #
+* * *
 
 ## Consultations and Draft Standard Development - to May 2014
 
