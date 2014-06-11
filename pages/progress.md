@@ -22,7 +22,7 @@ _In progress_
 
 People from the Open Contracting Data Standard effort led a sprint in the Open Spaces rooms at PyCon
 
-_[Notes from Pycon](http://open-contracting.github.io/pages/notes/workshops/2014-04-Montreal/), [post about what was worked on](http://open-contracting.github.io/2014/06/10/pycon-sprint-b.html), [post on what was discussed](http://open-contracting.github.io/2014/05/25/pycon-sprint.html_
+_[Notes from Pycon](http://open-contracting.github.io/pages/notes/workshops/2014-04-Montreal/), [post about what was worked on](http://open-contracting.github.io/2014/06/10/pycon-sprint-b.html), [post on what was discussed](http://open-contracting.github.io/2014/05/25/pycon-sprint.html)_
 
 ### Open Data Blending Tool - April 2014
  
