@@ -225,9 +225,8 @@ cite {
 	vertical-align: middle;
 }
 
-[role="banner"] img {
+[role="banner"] a {
 	width: 32%;
-	height: auto;
 }
 
 [role="banner"] nav {

@@ -1,16 +1,10 @@
 ---
 layout: home
-title: Welcome to the Open Contracting Data Standard Project
+title: Strapline
+latest_work: Vestibulum eu porta augue. Curabitur adipiscing magna sed elit venenatis, eu adipiscing nulla eleifend. 
+get_involved: Nam faucibus, turpis quis rhoncus iaculis, mi lacus luctus tortor, eu bibendum tellus mi fermentum massa.
+our_blog: Quisque imperdiet consectetur erat luctus malesuada. Suspendisse potenti. Eu adipiscing nulla eleifend. 
 ---
-Strapline - up to ten words
 
-Elevator pitch - up to 50 words
-
-Call to action: to "Project" page
-
-Current work - Call to action to read "Current work", and link to the most recent item on the "Progress" page - see below.
-
-Join us - Call to action to read "Join us", and link to "Get involved" page - see below.
-
-Latest blog - see below
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In placerat malesuada nulla, vel facilisis mauris rhoncus in. Nam scelerisque ut metus id suscipit. Vestibulum ipsum sem.
 
