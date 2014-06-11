@@ -18,6 +18,12 @@ One sentence about this piece of work
  
 _In progress_
 
+### PyCon in Montreal (April 14-17)
+
+People from the Open Contracting Data Standard effort led a sprint in the Open Spaces rooms at PyCon
+
+_[post about what was worked on](http://open-contracting.github.io/2014/06/10/pycon-sprint-b.html), [post on what was discussed](http://open-contracting.github.io/2014/05/25/pycon-sprint.html_
+
 ### Open Data Blending Tool - April 2014
  
 A set of tools to help find common ground across different naming conventions / standards in open contracting data.
