@@ -18,15 +18,13 @@ One sentence about this piece of work
  
 _In progress_
 
-### Developing tools
-
-Open Data Blending Tool - April 2014
+### Open Data Blending Tool - April 2014
  
 A set of tools to help find common ground across different naming conventions / standards in open contracting data.
  
 _[Blending tool documentation](http://open-contracting.github.io/pages/docs/ocdata-blend.html),  [blending tool repository](https://github.com/open-contracting/ocdata-blend)_
 
-Open Data Categorisation Tool - April 2014
+### Open Data Categorisation Tool - April 2014
  
 A set of tools to auto categorize Open Contracting data released by publishers into generic contracting categories.
  
