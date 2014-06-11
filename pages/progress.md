@@ -14,7 +14,7 @@ One sentence about this piece of work
 
 * * *
 
-## Consultations and Draft Standard Development - to May 2014
+## Consultations and Draft Standard - to May 2014
 
 ### Draft standard - June 2014
  
