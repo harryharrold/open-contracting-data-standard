@@ -48,9 +48,9 @@ _[The tool](http://ocds.aptivate.org/opendatacomparison), Documentation, reposit
 
 ### Initial OCDS workshop in Montreal - 31 January 2014
  
-One sentence about this piece of work
+On Jan 31, 2014 we held a Stakeholder Workshop in Montreal.
  
-_Personas, notes, user cases links_
+_[Workshop notes](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/), [Personas](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/personas.html)_
 
 ### OCDS Development Challenge 27 & 28 January 2014
  
