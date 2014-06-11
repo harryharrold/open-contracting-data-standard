@@ -22,7 +22,7 @@ _[Categorisation tool documentation](http://open-contracting.github.io/pages/doc
  
 [A tool](http://ocds.aptivate.org/opendatacomparison) for storing and comparing information on open contracting data sets.
  
-_[The tool](http://ocds.aptivate.org/opendatacomparison), [comparision tool documentation](http://open-contracting.github.io/pages/docs/opendatacomparison.html), [comparision tool repository](https://github.com/open-contracting/opendatacomparison), [Update blog post](http://open-contracting.github.io/2014/05/09/opendatacomparisonupdated.html), [Beta launch blog post](http://open-contracting.github.io/2014/03/04/opendatacomparisonbeta.html)_
+_[The tool](http://ocds.aptivate.org/opendatacomparison), [comparision tool documentation](http://open-contracting.github.io/pages/docs/opendatacomparison.html), [comparision tool repository](https://github.com/open-contracting/opendatacomparison)_
 
 ## Reports
 
