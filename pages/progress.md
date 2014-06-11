@@ -62,7 +62,7 @@ On January 31, 2014 we held a Stakeholder Workshop in Montreal.
  
 _[Workshop notes](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/), [personas](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/personas.html)_
 
-### OCDS Development Challenge 27 & 28 January 2014
+### OCDS Development Challenge - 27 & 28 January 2014
  
 ["Challenge F1: Open Contracting"](http://www.open-dev-ouvert.ca/challenges/#contracting) at [Development for Developers](http://www.open-dev-ouvert.ca/challenges/)
  
