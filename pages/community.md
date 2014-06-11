@@ -13,19 +13,19 @@ title: Get involved
 		<h2 class="visually-hidden">How to get invloved</h2>
 		<ul class="get-involved">
 			<li>
-				<img src="images/icon_news.png" alt="" />
+				<img src="{{site.baseurl}}assets/designs/icon_news.png" alt="" />
 				<p><a href="#">Join the general mailing list</a></p>
 			</li>
 			<li>
-				<img src="images/icon_twitter.png" alt="" />
+				<img src="{{site.baseurl}}assets/designs/icon_twitter.png" alt="" />
 				<p><a href="#">Join us on Twitter</a></p>
 			</li>
 			<li>
-				<img src="images/icon_dev_news.png" alt="" />
+				<img src="{{site.baseurl}}assets/designs/icon_dev_news.png" alt="" />
 				<p><a href="#">Join the developer mailing list</a></p>
 			</li>
 			<li>
-				<img src="images/icon_github.png" alt="" />
+				<img src="{{site.baseurl}}assets/designs/icon_github.png" alt="" />
 				<p><a href="#">Join us on Github</a></p>
 			</li>
 		</ul>
