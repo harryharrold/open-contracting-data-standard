@@ -52,6 +52,6 @@ _Personas, notes, user cases links_
 
 ### OCDS Development Challenge 27 & 28 January 2014
  
-One sentence about this piece of work
+"Challenge F1: Open Contracting" at [Development for Developers](http://www.open-dev-ouvert.ca/challenges/)
  
 _[hackpad space](https://opencontractingdata.hackpad.com/)_
