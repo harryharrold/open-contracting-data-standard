@@ -581,7 +581,8 @@ h1 .button-shaped {
 }
 
 article h1 + p {
-	text-align: center;
+	text-align: center;7
+	margin-bottom: 1.5em;
 }
 
 .author, time {
