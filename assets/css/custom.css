@@ -309,7 +309,7 @@ button, .button-shaped, [type="submit"] {
 }
 
 .get-involved a {
-	color: #505256;
+	font-size: 0.85em;
 }
 
 .button-shaped:after, .get-involved a:after {
@@ -545,6 +545,7 @@ h1 .button-shaped {
 
 .get-involved li {
     display: inline-block;
+    vertical-align: top;
     list-style: none;
     text-align: center;
     width: 49%;
@@ -552,6 +553,7 @@ h1 .button-shaped {
 
 .get-involved p {
 	margin: 0.25em 0 2em;
+	line-height: 1.1;
 }
 
 .get-involved a {
@@ -561,6 +563,37 @@ h1 .button-shaped {
 
 #open-logo {
 	max-width: 400px;
+}
+
+/* blog
+------------------------------------------------------ */
+
+.excerpts li {
+    list-style: none;
+}
+
+.excerpts h2 {
+    font-size: 1.75em;
+}
+
+.excerpts h2 + p {
+    margin-top: 0;
+}
+
+.excerpts .author, .excerpts time {
+    font-weight: bold;
+}
+
+.excerpts h2 + p [aria-hidden] {
+    padding: 0 0.5em;
+}
+
+.excerpts li + li:before {
+    content: '\2022\2022\2022';
+    display: block;
+    padding: 1.5em 0;
+    font-size: 1.5em;
+    text-align: center;
 }
 
 /* breakpoints
