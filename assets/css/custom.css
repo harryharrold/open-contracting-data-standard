@@ -310,6 +310,8 @@ button, .button-shaped, [type="submit"] {
 
 .get-involved a {
 	color: #505256;
+	border: 0;
+	text-decoration: underline;
 }
 
 .button-shaped:after, .get-involved a:after {
@@ -552,9 +554,7 @@ h1 .button-shaped {
 
 .get-involved p {
 	margin: 0.25em 0 2em;
-	line-height: 1.1;
-	border: 0;
-	text-decoration: underline;
+	line-height: 1.125;
 }
 
 .get-involved a {
