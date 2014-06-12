@@ -576,11 +576,15 @@ h1 .button-shaped {
     font-size: 1.75em;
 }
 
-.excerpts h2 + p {
+.excerpts h2 + p, article h1 + p {
     margin-top: 0;
 }
 
-.excerpts .author, .excerpts time {
+article h1 + p {
+	text-align: center;
+}
+
+.author, time {
     font-weight: bold;
 }
 
