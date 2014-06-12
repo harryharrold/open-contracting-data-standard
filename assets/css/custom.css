@@ -154,19 +154,9 @@ h4 { font-size: 1em; }
 
 hr {
     border: 0;
-    height: 0.75em;
+    height: 0.5em;
     background: url(images/hr.png) repeat-x center center;
     background-size: auto 100%;
-}
-
-hr:after {
-    content: '';
-    display: block;
-    border-top: 1px solid #505256;
-    border-bottom: 1px solid #505256;
-    position: relative;
-    top: -0.25em;
-    z-index: 5;
 }
 
 li, dt, dd, option {
