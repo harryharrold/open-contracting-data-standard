@@ -2,12 +2,13 @@
 layout: base
 ---
 
-<h1>{{ page.title }}</h1>
-<p>
-    <time datetime="{{post.date}}">{{ page.date  | date_to_string }}</time>
-    {% if page.author %} 
-        <span aria-hidden="true">&middot;</span> <span class="author">{{page.author}}</span>
-    {% endif %}
-</p>
-
-{{ content }}
+<article>
+    <h1>{{ page.title }}</h1>
+    <p>
+        <time datetime="{{post.date}}">{{ page.date  | date_to_string }}</time>
+        {% if page.author %} 
+            <span aria-hidden="true">&middot;</span> <span class="author">{{page.author}}</span>
+        {% endif %}
+    </p>
+    {{ content }}
+</article>
