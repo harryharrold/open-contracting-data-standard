@@ -552,6 +552,7 @@ h1 .button-shaped {
 
 .get-involved p {
 	margin: 0.25em 0 2em;
+	line-height: 1;
 }
 
 .get-involved a {
