@@ -157,6 +157,7 @@ hr {
     height: 0.5em;
     background: url(images/hr.png) repeat-x center center;
     background-size: auto 100%;
+    margin: 3em 0;
 }
 
 li, dt, dd, option {
