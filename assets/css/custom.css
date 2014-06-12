@@ -469,6 +469,10 @@ h1 + p {
 	margin-top: 0;
 }
 
+h1 + ul {
+	margin-top: 2.25em;
+}
+
 h1 .button-shaped {
 	font-size: 0.5em;
 	margin: 0;
