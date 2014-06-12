@@ -545,6 +545,7 @@ h1 .button-shaped {
 
 .get-involved li {
     display: inline-block;
+    vertical-align: top;
     list-style: none;
     text-align: center;
     width: 49%;
