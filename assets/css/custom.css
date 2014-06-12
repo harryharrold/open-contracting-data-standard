@@ -596,6 +596,12 @@ h1 .button-shaped {
     text-align: center;
 }
 
+[href="/feed.xml"] img {
+    height: 1em;
+    vertical-align: top;
+    padding-left: 0.25em
+}
+
 /* breakpoints
 ------------------------------------------------------ */
 
