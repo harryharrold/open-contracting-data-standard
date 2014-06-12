@@ -153,9 +153,10 @@ h3 { font-size: 1.75em; }
 h4 { font-size: 1em; }
 
 hr {
-    position: relative;
-    border-top: 0.5em dotted #505256;
-    margin: 3em 0;
+    border: 0;
+    height: 0.75em;
+    background: url(images/hr.png) repeat-x center center;
+    background-size: auto 100%;
 }
 
 hr:after {
