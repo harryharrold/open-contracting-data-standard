@@ -1,17 +1,13 @@
 ---
 layout: base
 ---
-<div class="post">
-{% if page.image %}
-<img class="pull-right img-thumbnail img-responsive" src="{{ page.image }}"/> 
-{% endif %}
+
 <h1>{{ page.title }}</h1>
-<div class="post-title">
-    <p class="meta">
-    {% if page.date %}<span class="item">{{ page.date | date_to_string }}</span> - {% endif %}
-    {% if page.author %}<span>{{ page.author }}</span>{% endif %}
-    </p>
-</div>
+<p>
+    <time datetime="{{post.date}}">{{ page.date  | date_to_string }}</time>
+    {% if page.author %} 
+        <span aria-hidden="true">&middot;</span> <span class="author">{{page.author}}</span>
+    {% endif %}
+</p>
 
 {{ content }}
-</div>
