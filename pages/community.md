@@ -14,19 +14,19 @@ title: Get involved
 		<ul class="get-involved">
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_news.png" alt="" />
-				<p><a href="#">Join the general mailing list</a></p>
+				<p><a href="#" class="button-shaped">Join the general mailing list</a></p>
 			</li>
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" />
-				<p><a href="#">Join us on Twitter</a></p>
+				<p><a href="#" class="button-shaped">Join us on Twitter</a></p>
 			</li>
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_dev_news.png" alt="" />
-				<p><a href="#">Join the developer mailing list</a></p>
+				<p><a href="#" class="button-shaped">Join the developer mailing list</a></p>
 			</li>
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_github.png" alt="" />
-				<p><a href="#">Join us on Github</a></p>
+				<p><a href="#" class="button-shaped">Join us on Github</a></p>
 			</li>
 		</ul>
 	</div>
