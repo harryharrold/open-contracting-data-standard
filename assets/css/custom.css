@@ -250,6 +250,10 @@ li {
 	list-style: disc inside;
 }
 
+li *:only-child {
+	display: inline;
+}
+
 dt {
 	font-weight: bold;
 }
