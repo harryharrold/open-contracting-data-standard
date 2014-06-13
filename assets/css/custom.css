@@ -154,7 +154,7 @@ h4 { font-size: 1em; }
 
 hr {
     border: 0;
-    height: 0.5em;
+    height: 0.75em;
     background: url(images/hr.png) repeat-x center center;
     background-size: auto 100%;
     margin: 3em 0;
