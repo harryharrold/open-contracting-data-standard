@@ -31,6 +31,6 @@ title: Get involved
 		</ul>
 	</div>
 </div>
-<h2 class="visually-hidden">Open Contracting</h2>
+<h2 class="visually-hidden"><a href="http://www.open-contracting.org/">Open Contracting</a></h2>
 <img id="open-logo" src="{{site.baseurl}}assets/design/open_logo.png" alt="">
 <p>In mattis vitae tortor eget tempor. Quisque fringilla euismod neque quis facilisis. Fusce ut tempus erat. Suspendisse potenti. Fusce at tortor eu libero consequat luctus. Duis aliquam tortor nec dui pellentesque porta. In rhoncus nulla odio, eget congue arcu rhoncus at. Praesent eget turpis quis odio porta fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
