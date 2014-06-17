@@ -167,6 +167,10 @@ li, dt, dd, option {
 
 blockquote, figure {
 	font-size: 1.25em;
+	padding: 1.5em;
+	background: #ddd;
+	text-shadow: 2px 2px 0 solid #fff;
+	border-radius: 0.125em;
 }
 
 blockquote > p, figcaption {
