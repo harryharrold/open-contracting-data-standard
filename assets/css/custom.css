@@ -307,6 +307,7 @@ button, .button-shaped, [type="submit"] {
 
 .get-involved a {
 	font-size: 0.85em;
+	display: block;
 }
 
 .button-shaped:after, .get-involved a:after {
@@ -555,11 +556,6 @@ h1 .button-shaped {
 .get-involved p {
 	margin: 0.25em 0 2em;
 	line-height: 1.1;
-}
-
-.get-involved a {
-	font-size: 0.9em;
-	padding: 0.25em;
 }
 
 #open-logo {
