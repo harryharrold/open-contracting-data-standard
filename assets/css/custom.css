@@ -597,7 +597,7 @@ article h1 + p {
 .excerpts li + li:before {
     content: '\2022';
     display: block;
-    padding: 0.75em 0;
+    padding: 0.33em 0;
     font-size: 3em;
     text-align: center;
 }
