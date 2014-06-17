@@ -17,7 +17,7 @@ title: Get involved
 				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds" class="button-shaped">Join the general mailing list</a></p>
 			</li>
 			<li>
-				<<a href="https://twitter.com/ocdata"><img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" /></a>
+				<a href="https://twitter.com/ocdata"><img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" /></a>
 				<p><a href="https://twitter.com/ocdata" class="button-shaped">Join us on Twitter</a></p>
 			</li>
 			<li>
