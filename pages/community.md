@@ -13,20 +13,20 @@ title: Get involved
 		<h2 class="visually-hidden">How to get invloved</h2>
 		<ul class="get-involved">
 			<li>
-				<a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds"><img src="{{site.baseurl}}assets/design/icon_news.png" alt="" /></a>
-				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds" class="button-shaped">Join the general mailing list</a></p>
+				<a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds" ="button-shaped"> <img src="{{site.baseurl}}assets/design/icon_news.png" alt="" />
+				<p>Join the general mailing list</a></p>
 			</li>
 			<li>
-				<a href="https://twitter.com/ocdata"><img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" /></a>
-				<p><a href="https://twitter.com/ocdata" class="button-shaped">Join us on Twitter</a></p>
+				<a href="https://twitter.com/ocdata" class="button-shaped"><img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" />
+				<p>Join us on Twitter</a></p>
 			</li>
 			<li>
-				<a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds-dev"><img src="{{site.baseurl}}assets/design/icon_dev_news.png" alt="" /></a>
-				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds-dev" class="button-shaped">Join the developer mailing list</a></p>
+				<a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds-dev" class="button-shaped"><img src="{{site.baseurl}}assets/design/icon_dev_news.png" alt="" />
+				<p>Join the developer mailing list</a></p>
 			</li>
 			<li>
-				<a href="https://github.com/open-contracting"> <img src="{{site.baseurl}}assets/design/icon_github.png" alt="" /></a>
-				<p><a href="https://github.com/open-contracting" class="button-shaped">Join us on Github</a></p>
+				<a href="https://github.com/open-contracting" class="button-shaped"> <img src="{{site.baseurl}}assets/design/icon_github.png" alt="" />
+				<p>Join us on Github</a></p>
 			</li>
 		</ul>
 	</div>
