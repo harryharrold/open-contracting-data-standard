@@ -14,7 +14,7 @@ title: Get involved
 		<ul class="get-involved">
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_news.png" alt="" />
-				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds" ="button-shaped">Join the general mailing list</a></p>
+				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds" class="button-shaped">Join the general mailing list</a></p>
 			</li>
 			<li>
 				<img src="{{site.baseurl}}assets/design/icon_twitter.png" alt="" />
