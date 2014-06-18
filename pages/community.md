@@ -21,7 +21,7 @@ title: Get involved
 				<p><a href="https://twitter.com/ocdata" class="button-shaped">Join us on Twitter</a></p>
 			</li>
 			<li>
-				<<img src="{{site.baseurl}}assets/design/icon_dev_news.png" alt="" />
+				<img src="{{site.baseurl}}assets/design/icon_dev_news.png" alt="" />
 				<p><a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds-dev" class="button-shaped">Join the developer mailing list</a></p>
 			</li>
 			<li>
